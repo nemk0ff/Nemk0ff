@@ -1,4 +1,4 @@
-![Header](assets/dribbble_gif.gif)
+![Header](assets/aboutGIF.gif)
 
 # About me
 ### 👨🏻‍💻 Java Backend Developer
