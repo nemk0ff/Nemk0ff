@@ -1,4 +1,4 @@
-![Header] (https://github.com/NemkoB/NemkoB/blob/main/assets/coworking-male-programmer.gif)
+![Header](https://github.com/NemkoB/NemkoB/blob/main/assets/coworking-male-programmer.gif)
 
 
 ## About me
