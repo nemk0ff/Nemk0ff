@@ -10,6 +10,7 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA
 
 #### 🔥 Java
 Core
+I am currently studying at the JavaRush course, passing the digital department in the direction of "Java application development" and reading additional literature
 #### 📌 C/C++
 OOP, STL, QT, SFML
 Implemented STL classes, Ini file editor, "Among Us & Pacman" game
