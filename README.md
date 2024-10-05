@@ -9,7 +9,7 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA
 ### 💡Languages and Tools
 
 #### 🔥 Java
-Core, Collections
+Core
 #### 📌 C/C++
 OOP, STL, QT, SFML
 Implemented STL classes, Ini file editor, "Among Us & Pacman" game
@@ -20,4 +20,4 @@ Have experience in building dashboards
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
 
 I am ready for hard work, for new challenges and I am ready to study every day to become a specialist in the field of development.
-### 👉Follow me
+
