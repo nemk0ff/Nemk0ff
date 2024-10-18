@@ -15,7 +15,7 @@ I am currently studying at the JavaRush course, passing the digital department i
 #### 📌 C/C++
 OOP, STL, QT, SFML. 
 
-Pet-Projects: Implemented STL classes, Ini file editor, "Among Us & Pacman" game
+Pet-Projects: Implemented STL classes, Ini file editor, game "Pacman Among Us" 
 #### 📈 Databases
 I have experience working with SQL, PostgreSQL, MySQL, SQLite.
 Can do things like subqueries, join, window functions, and basic product metrics.
