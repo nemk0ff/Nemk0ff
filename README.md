@@ -1,12 +1,12 @@
 ![Header](assets/aboutGIF.gif)
 
 # About me
-### 👨🏻‍💻 Java Backend Developer
+## 👨🏻‍💻 Java Backend Developer
 
-### 🎓Education
-Sophomore in Applied Mathematics and Computer Science at the RTU MIREA
+## 🎓Education
+Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
 
-### 💡Languages and Tools
+## 💡Languages and Tools
 
 #### 🔥 Java: Core
 I am currently studying at the JavaRush course and reading and watching a lot of additional literature and courses
