@@ -1,7 +1,6 @@
 ![Header](assets/aboutGIF.gif)
 
-# About me
-## 👨🏻‍💻 Java Backend Developer
+# 👨🏻‍💻 Backend Developer
 
 ## 🎓Education
 Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
