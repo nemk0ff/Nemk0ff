@@ -7,9 +7,9 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-202
 
 ## 💡Languages and Tools
 
-#### 🔥 Java: Core
+#### ❤️ Java: Core
 I am currently studying at the JavaRush course and reading and watching a lot of additional literature and courses
-#### ❤️ Kotlin
+#### 🔥 Kotlin
 I am studying at the educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
 #### 🧠 C/C++
 C++17, OOP, STL, QT, SFML. 
