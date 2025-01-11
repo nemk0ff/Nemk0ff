@@ -20,9 +20,9 @@ C++20, OOP, STL, Multithreading, QT, SFML
 
 Pet-Projects: Implemented STL classes, Ini file editor, game "Pacman Among Us" 
 #### 📈 Databases
-I have experience working with SQL, PostgreSQL, MySQL, SQLite.
-Can do things like subqueries, join, window functions, and basic product metrics.
-Have experience in building different dashboards and diagramms
+Stack: PostgreSQL, MySQL, SQLite, Redis
+
+Skills: query writing, creating conceptual and relational models, database normalization
 ### 💪Personal qualities
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
 
