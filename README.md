@@ -16,7 +16,7 @@ I am currently studying at the JavaRush course and reading and watching a lot of
 #### 🧠 C/C++
 C++20, OOP, STL, Multithreading, QT, SFML
 
-09.2023 - 05.2024 - Studying at the university and additional literature (Shildt, Stepik, etc.)
+09.2023 - 12.2024 - University programming course and additional literature (Shildt, Stepik, etc.)
 
 Pet-Projects: Implemented STL classes, Ini file editor, game "Pacman Among Us" 
 #### 📈 Databases
