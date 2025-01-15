@@ -14,7 +14,7 @@ I am currently studying at the JavaRush course and reading and watching a lot of
 #### 🔥 Kotlin
 10.2024 - 05.2025 - The educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
 #### 🧠 C/C++
-C++20, OOP, STL, Multithreading, QT, SFML
+C, C++20, OOP, STL, Multithreading, QT, SFML
 
 09.2023 - 12.2024 - University programming course and additional literature (Shildt, Stepik, etc.)
 
