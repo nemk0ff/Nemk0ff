@@ -28,3 +28,4 @@ Skills: query writing, creating conceptual and relational models, database norma
 
 I am ready for hard work, for new challenges and I am ready to study every day to become a specialist in the field of development.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
