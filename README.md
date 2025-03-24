@@ -4,9 +4,9 @@
 
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?logo=spring&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-![Java](https://img.shields.io/badge/Java-17-%23ED8B00?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Java 17](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white)
 ![Log4j2](https://img.shields.io/badge/Log4j2-1F1F1F?logo=apache&logoColor=white)
@@ -15,7 +15,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
@@ -29,6 +29,9 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-202
 
 #### ❤️ Java: Core
 11.2024 - 05.2025 Course "Java Base" from the company "Senla"
+
+Pet-Projects: ![Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4)
+
 I am currently studying at the JavaRush course and reading and watching a lot of additional literature and courses
 #### 🔥 Kotlin
 10.2024 - 05.2025 - The educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
