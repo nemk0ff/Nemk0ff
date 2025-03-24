@@ -31,9 +31,8 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-202
 #### ❤️ Java: Core
 11.2024 - 05.2025 Course "Java Base" from the company "Senla"
 
-Pet-Projects: ![Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4)
+Pet-Projects: [Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4)
 
-I am currently studying at the JavaRush course and reading and watching a lot of additional literature and courses
 #### 🔥 Kotlin
 10.2024 - 05.2025 - The educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
 #### 🧠 C/C++
