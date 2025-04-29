@@ -39,9 +39,6 @@ Pet-Projects: [Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4)
 #### 🧠 C/C++
 C, C++20, OOP, STL, Multithreading, QT, SFML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark)](https://github.com/nemk0ff/github-readme-stats)
-
-
 *09.2023 - 12.2024* - University programming course and additional literature (Shildt, Stepik, etc.)
 
 Pet-Projects: [Implemented STL classes](https://github.com/nemk0ff/DataStructures), [Ini file editor](https://github.com/nemk0ff/Ini-Editor), [game "Pacman Among Us"](https://github.com/nemk0ff/Pacman-Among-Us) 
@@ -50,3 +47,5 @@ Pet-Projects: [Implemented STL classes](https://github.com/nemk0ff/DataStructure
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
 
 I am ready for hard work, for new challenges and I am ready to study every day to become a specialist in the field of development.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark)](https://github.com/nemk0ff/github-readme-stats)
