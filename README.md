@@ -48,4 +48,4 @@ Pet-Projects: [Implemented STL classes](https://github.com/nemk0ff/DataStructure
 
 I am ready for hard work, for new challenges and I am ready to study every day to become a specialist in the field of development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark)](https://github.com/nemk0ff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark&hide_border=true&show_icons=true)](https://github.com/nemk0ff)
