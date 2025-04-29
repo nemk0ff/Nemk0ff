@@ -1,0 +1,31 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Автообновление раз в сутки
+  workflow_dispatch: # Ручной запуск
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GH_README_SECRET }}
+          show_private: true # Включаем private-репозитории
+          # Доп. параметры:
+          theme: dark
+          layout: compact
+          exclude_repo: repo1,repo2 # Исключение репозиториев
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your-email@example.com"
+          git add README.md
+          git commit -m "Update GitHub stats"
+          git push
