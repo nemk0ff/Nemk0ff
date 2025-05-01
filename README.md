@@ -32,7 +32,7 @@ Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-202
 #### ❤️ Java: Core
 *11.2024 - 05.2025* Course "Java Base" from the company "Senla"
 
-Pet-Projects: [Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4)
+Pet-Projects: [Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4), [Bookstore 2.0](https://github.com/nemk0ff/Bookstore)
 
 #### 🔥 Kotlin
 *10.2024 - 05.2025* - The educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
@@ -47,6 +47,3 @@ Pet-Projects: [Implemented STL classes](https://github.com/nemk0ff/DataStructure
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
 
 I am ready for hard work, for new challenges and I am ready to study every day to become a specialist in the field of development.
-## 📊 GitHub Stats
-<!-- STATS --><!-- STATS -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark&hide_border=true&show_icons=true)](https://github.com/nemk0ff)
