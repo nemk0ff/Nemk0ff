@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Автообновление раз в сутки
-  workflow_dispatch: # Ручной запуск
+    - cron: '0 0 * * *'  # Раз в сутки
+  workflow_dispatch:      # Ручной запуск
 
 jobs:
   update-stats:
@@ -12,20 +12,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true # Чтобы git push работал
+          persist-credentials: true  # Чтобы git push работал
 
-      - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@latest
-        with:
-          github_token: ${{ secrets.GH_README_SECRET }}
-          show_private: true # Включаем private-репозитории
-          theme: dark
-          layout: compact
-          exclude_repo: repo1,repo2 # Исключение репозиториев
-
-      - name: Update README
+      - name: Update Stats in README
         run: |
-          sed -i 's|<!-- STATS -->.*<!-- STATS -->|<!-- STATS -->![GitHub Stats](https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_private=true&theme=dark&layout=compact&exclude_repo=repo1,repo2)<!-- STATS -->|' README.md
+          # Генерируем URL статистики (подставьте свой username!)
+          STATS_URL="https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&show_private=true&theme=dark&layout=compact"
+
+          # Вставляем в README.md (заменяем строку между <!-- STATS -->)
+          sed -i "s|<!-- STATS -->.*<!-- STATS -->|<!-- STATS -->![GitHub Stats]($STATS_URL)<!-- STATS -->|" README.md
 
       - name: Commit Changes
         run: |
