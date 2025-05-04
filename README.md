@@ -1,6 +1,6 @@
 ![Header](assets/aboutGIF.gif)
 
-# 👨🏻‍💻 Backend Developer
+# 👨🏻‍💻 Java Developer
 
 ![java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -26,8 +26,6 @@
 
 ## 🎓Education
 Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
-
----
 
 ## 💪Personal qualities
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
