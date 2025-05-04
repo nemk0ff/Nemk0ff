@@ -27,22 +27,6 @@
 ## 🎓Education
 Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
 
-## 💡Languages and Tools
-
-#### ❤️ Java: Core
-*11.2024 - 05.2025* Course "Java Base" from the company "Senla"
-
-Pet-Projects: [Bookstore](https://github.com/nemk0ff/SenlaCourse/tree/main/4), [Bookstore 2.0](https://github.com/nemk0ff/Bookstore)
-
-#### 🔥 Kotlin
-*10.2024 - 05.2025* - The educational track "Kotlin Mobile Development" of the Samsung Innovation Campus project
-#### 🧠 C/C++
-C, C++20, OOP, STL, Multithreading, QT, SFML
-
-*09.2023 - 12.2024* - University programming course and additional literature (Shildt, Stepik, etc.)
-
-Pet-Projects: [Implemented STL classes](https://github.com/nemk0ff/DataStructures), [Ini file editor](https://github.com/nemk0ff/Ini-Editor), [game "Pacman Among Us"](https://github.com/nemk0ff/Pacman-Among-Us) 
-
 ### 💪Personal qualities
 ✔️Responsible ✔️Disciplined ✔️Fast learning ✔️Hardworking
 
