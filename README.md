@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/about1.gif" width="45%">
-  <img src="assets/about2.gif" width="45%">
+  <img src="assets/about1.gif" width="60%">
+  <img src="assets/about2.gif" width="30%">
 </p>
 # 👨🏻‍💻 Java Developer
 
