@@ -18,6 +18,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
@@ -28,3 +32,5 @@
 Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=compact&theme=dark)](https://github.com/nemk0ff/github-readme-stats)
+
+### Базы данных и миграции:
