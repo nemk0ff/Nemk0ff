@@ -31,5 +31,5 @@
 ## 🎓Education
 Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=donut&theme=merko&langs_count=5)](https://github.com/nemk0ff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=donut&theme=merko&langs_count=5&colors=FF5733,33FF57,3357FF,F0FF33)](https://github.com/nemk0ff/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemk0ff&show_icons=true&theme=merko)](https://github.com/nemk0ff)
