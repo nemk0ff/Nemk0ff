@@ -2,6 +2,7 @@
   <img src="assets/about1.gif" width="52%">
   <img src="assets/about2.gif" width="38%">
 </p>
+
 # 👨🏻‍💻 Java Developer
 
 ![java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
