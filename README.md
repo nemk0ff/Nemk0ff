@@ -32,11 +32,15 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 
-### **🎓 Education**  
+---
+
+## **🎓 Education**  
 **РТУ МИРЭА** - Москва (2023–2027)  
 🎯 Прикладная математика и информатика (Системное программирование и компьютерные технологии) - 3 курс  
 
-### **🎓 Add. education**  
+---
+
+## **🎓 Add. education**  
 
 ♨️ **ООО "Сенла"**: Java-Intensive; QA internship manual testing
 
@@ -49,6 +53,8 @@
 📱 **Samsung Innovation Campus**: Kotlin Mobile Development  
 
 🛠️ **Karpov.courses**: Simulator SQL, Docker
+
+---
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=donut&theme=merko&langs_count=5)](https://github.com/nemk0ff/github-readme-stats)
