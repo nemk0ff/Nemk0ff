@@ -32,8 +32,18 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 
-## 🎓Education
-Sophomore in Applied Mathematics and Computer Science at the RTU MIREA (2023-2027)
+### **🎓 Education**  
+**РТУ МИРЭА** - Москва (2023–2027)  
+🎯 Прикладная математика и информатика (Системное программирование и компьютерные технологии) - 3 курс  
 
+### **🎓 Add. education**  
+♨️ **ООО "Сенла"**: Java-Intensive; QA internship manual testing
+♨️ **T1 Summer Camp 2025**: Java Backend Development
+☕ **SwiftBook**: Introduction to Spring
+☕ **JavaRush**: Java Core (40 lvl)
+📱 **Samsung Innovation Campus**: Kotlin Mobile Development  
+🛠️ **Karpov.courses**: Simulator SQL, Docker
+
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemk0ff&layout=donut&theme=merko&langs_count=5)](https://github.com/nemk0ff/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemk0ff&show_icons=true&theme=merko)](https://github.com/nemk0ff)
